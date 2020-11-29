@@ -50,4 +50,4 @@ Information of benefit positive(+) or negative(-) impact criteria should be prov
 
 <br>
 
-The rankings are displayed in the form of a table using a package 'tabulate', with the 1st rank offering us the best decision, and last rank offering the worst decision making, according to TOPSIS method.
+The rankings are stored in a csv file, with the 1st rank offering us the best decision, and last rank offering the worst decision making, according to TOPSIS method.
